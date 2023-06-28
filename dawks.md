@@ -1,3 +1,3 @@
 This documentation describes how to use the Ajax robotic floor sweeper.
 
-Make sure to power up the battery before use.
+You dont need to power up the battery before use.
